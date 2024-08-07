@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.header-tall {
+  height: 60px;
+  background-color: rgb(252, 192, 79);
+  padding-top: 15px;
+  text-align: center;
+}
+.footer-tall {
+  height: 100px;
+  background-color: grey;
+  padding-top: 15px;
+  text-align: center;
+}
